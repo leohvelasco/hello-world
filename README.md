@@ -15,4 +15,6 @@ Learning more about Git Hub!
 `code`
 ---
 [title](https://www.example.com)
+---
+[Markdown Cheat Sheet] (https://www.markdownguide.org/cheat-sheet/#basic-syntax)
 ![alt text](image.jpg)
